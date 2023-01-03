@@ -24,7 +24,7 @@
 var today = dayjs();
 $('#currentDay').text(today.format('MMMM D, YYYY'));
 
-// add click listener to save to local storage
+// Jquery call for DOM elements
 $(document).ready(function () {
   // saveBtn click listener 
   $(".saveBtn").on("click", function () {
