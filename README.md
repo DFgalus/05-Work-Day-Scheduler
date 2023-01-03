@@ -2,8 +2,8 @@
 
 ## Description
 
-This project is a planner to schedule your busy work day! Sometimes it feels like you do not have enough time during the day. Well fear no more! With this work day scheduler you can plan out your busy day at work and manage your time accordingly.
-This project was built for those who would like a good way to plan out and manage their day. Using third party API's like bootstrap and Jquery, it made it possible to create this webpage in a timely manner.  This project helped me practice the skills I learned about
+This project is a planner to schedule your busy work day! Sometimes it feels like you do not have enough time during the day, well fear no more! With this work day scheduler you can plan out your busy day at work and manage your time accordingly.
+This project was built for those who would like a good way to plan out and manage their day. Using third party API's like Bootstrap and Jquery, it made it possible to create this webpage in a timely manner.  This project helped me practice the skills I learned about
 third party API's.
 
 
