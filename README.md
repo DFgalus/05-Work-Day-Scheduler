@@ -15,6 +15,8 @@ third party API's.
 
 ## Installation
 
+Link to deployed webpage: https://dfgalus.github.io/Work-Day-Scheduler/
+
 Click on the link to the deployed webpage, which will launch the webpage with no errors.  
 
 
@@ -29,5 +31,7 @@ The current day will be displayed in the header, and a schedule for a normal wor
 
 
 ## License
+
+Link to GitHub repository: https://github.com/DFgalus/Work-Day-Scheduler
 
 Refer to the Github repository for licensing.
